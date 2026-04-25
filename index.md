@@ -17,7 +17,7 @@ I analyzed survey data from 534 COMP110 students to explore whether prior coding
 
 ## Visualizations
 
-<img src="/comp110-analysis/static/imgs/bar_chart.png" alt="Bar chart of difficulty by prior experience" width="600"/>
+<img src="/comp110-analysis/static/imgs/bar.png" alt="Bar chart of difficulty by prior experience" width="600"/>
 
 <img src="/comp110-analysis/static/imgs/strip_chart.png" alt="Strip chart of difficulty by prior experience" width="600"/>
 
