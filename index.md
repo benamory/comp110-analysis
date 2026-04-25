@@ -25,4 +25,8 @@ I analyzed survey data from 534 COMP110 students to explore whether prior coding
 
 ## Conclusion
 
-The data clearly supports the idea that students with no coding background find COMP110 significantly harder. I recommend that the course could offer an optional intro module for students with no prior experience. A potential downside is the resources required to build and maintain it, but the impact on the largest group of struggling students makes it worthwhile.
+My analysis shows that prior coding experience has a clear effect on how difficult students find COMP110. Students with no prior experience (328 out of 534 surveyed) rated the course at an average difficulty of 4.6 out of 7, while students with over 2 years of experience rated it at only 2.3 out of 7. The box plot and bar chart both confirm this trend.
+
+This supports my idea that the course should provide an optional intro module for students with no coding background. The data clearly shows this is the largest group of students and they consistently find the course harder.
+
+A potential cost of this change is the additional resources required to create and maintain an intro module. Some students may also skip it even if they need it since it would be stated as optional. A possible refinement would be to make the module recommended rather than optional for students who indicate no prior experience on their intake survey and they'd be further encouraged to use the content provided. The module could even be made for extra credit and have a short quiz at the end to encourage the begginer students more.
